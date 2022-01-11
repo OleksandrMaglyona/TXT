@@ -1,0 +1,5 @@
+movie-The Shawshank Redemption
+series-Alf
+food-meat
+country-Greece
+Season-Summer
